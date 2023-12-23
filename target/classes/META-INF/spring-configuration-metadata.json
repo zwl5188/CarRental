@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "prop",
+      "type": "com.zz.common.prop.Properties",
+      "sourceType": "com.zz.common.prop.Properties"
+    },
+    {
+      "name": "prop.properties",
+      "type": "com.zz.common.prop.Properties",
+      "sourceType": "com.zz.common.prop.Properties"
+    },
+    {
+      "name": "prop.upload",
+      "type": "com.zz.common.prop.Properties$Upload",
+      "sourceType": "com.zz.common.prop.Properties"
+    },
+    {
+      "name": "prop.web",
+      "type": "com.zz.common.prop.Properties$Web",
+      "sourceType": "com.zz.common.prop.Properties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "prop.static-access",
+      "type": "java.lang.String",
+      "sourceType": "com.zz.common.prop.Properties"
+    }
+  ],
+  "hints": []
+}
